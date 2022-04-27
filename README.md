@@ -3,7 +3,7 @@
 <img src=./BadBank.png>
 
 ## Description:
-<p> This is basic banking app. <br> The user can deposit money, withdraw money and create new accounts. <br> There is validation on the "Create Account", "Deposit", and "Withdraw" pages. <br>The user cannot withdraw more money than they have in their account. </p>
+<p> This is a basic banking app. <br> The user can deposit money, withdraw money and create new accounts. <br> There is validation on the "Create Account", "Deposit", and "Withdraw" pages. <br>The user cannot withdraw more money than they have in their account. </p>
 
 ## How to Run:
 <p> Clone all files to a single folder. <br> Start a local server. </br> Open the "index.html" file and start using the app.</p>
